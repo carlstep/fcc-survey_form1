@@ -2,3 +2,13 @@
     box-sizing: border-box;
 }
 
+body {
+    font-family: 'Lato' Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+#survey-form {
+    max-width: 80%;
+    border: 2px solid blue;
+    background-color: darkgray;
+}
